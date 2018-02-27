@@ -13,7 +13,7 @@ class Project extends React.Component {
                 <div className="container project-desc">
                   <h1> When Do You Reach </h1>
                   <div className="img-project-desc">
-                    <img src="/images/4-aurin-map.jpg "/>
+                    <img src="/images/whendoyoureach.jpg "/>
                   </div>
                   <h2> Personal </h2>
 
