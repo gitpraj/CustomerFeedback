@@ -12,6 +12,7 @@ import projectEU from './components/projects/projectEU'
 import projectACA from './components/projects/projectACA'
 import projectSM from './components/projects/projectSM'
 import projectCR from './components/projects/projectCR'
+import projectCR from './components/projects/projectWH'
 import HomePage from './components/projects/homepage'
 import Layout from './components/projects/layout'
 import Aboutme from './components/projects/aboutme'
@@ -29,6 +30,7 @@ let routes = (
         <Route path="aca" component={projectACA}/>
         <Route path="sm" component={projectSM}/>
         <Route path="cr" component={projectCR}/>
+        <Route path="wh" component={projectWH}/>
     </Route>
 
   </Route>
